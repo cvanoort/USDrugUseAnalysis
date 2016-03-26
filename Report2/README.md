@@ -11,4 +11,3 @@ Files:
 - specifications.html: The project specifications provided by the instructor (James Bagrow).
 - usDrugUseAnalysis2.pdf: The report containting figures and analyses developed from the US DOH data.
 - usDrugUseAnalysis2.tex: The .tex file which is used to generate the .pdf file.
-- usDrugUseAnalysis2Slides.pdf: Presentation slides containing selected information from usDrugUseAnalysis2.pdf, provides a brief overview of the results contained in full report.
