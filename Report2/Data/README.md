@@ -6,7 +6,7 @@ This report was created using several datasets obtained from the United States D
 * [DAWN 2004-2011](http://www.icpsr.umich.edu/icpsrweb/NAHDAP/series/97)
 * [TEDS-A 1992-2012](http://doi.org/10.3886/ICPSR25221.v10)
 
-Official Citations:
+Citations:
 
 * United States Department of Health and Human Services. Substance Abuse and Mental Health Services Administration. Center for Behavioral Health Statistics and Quality. National Survey on Drug Use and Health, 2002 to 2013. Ann Arbor, MI: Inter-university Consortium for Political and Social Research [distributor]. http://www.icpsr.umich.edu/icpsrweb/NAHDAP/series/64.
 
